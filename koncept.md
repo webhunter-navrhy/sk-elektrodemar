@@ -1,0 +1,2 @@
+# Koncept: jednopólová schéma
+Web je čitelný jako elektrická schéma: jedna navy linka vede od projektu přes cenovou nabídku a realizaci až k revizi (4 služby klienta jdou skutečně v tomto pořadí). Uzly na lince = kroky, mono popisky = označení jako na rozvaděči. Písma: Bricolage Grotesque (nadpisy) + IBM Plex Mono (štítky). Barvy z loga a webu: navy #070059, červená #9a1a17, žlutá #d9b50f jen jako akcent. Fotky klienta (budova, tým, certifikáty, trafostanice, DEMAR SHOP). Žádná vymyšlená čísla (jen "36 rokov" z jejich webu).

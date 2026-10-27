@@ -1,0 +1,224 @@
+{
+ "slug": "elektrodemar",
+ "zdroj_url": "http://www.elektrodemar.sk",
+ "firma": "Elektro Demar Plus s.r.o.",
+ "obor": [
+  "stavebnictví a řemesla",
+  "e-shop / obchod"
+ ],
+ "ico": "",
+ "ares": null,
+ "kontakty": {
+  "emaily": [
+   "20info@elektrodemar.sk",
+   "info@elektrodemar.sk"
+  ],
+  "telefony": [
+   "+421 918 873 429"
+  ],
+  "adresa": "",
+  "socialni_site": []
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://elektrodemar.sk/storage/logo.png",
+  "rozmery": [
+   1920,
+   542
+  ]
+ },
+ "barvy": {
+  "css_promenne": {},
+  "z_css": [
+   "#d9b50f",
+   "#070058",
+   "#f6cece",
+   "#b60202",
+   "#3e8e41"
+  ],
+  "z_loga": [
+   "#070059",
+   "#9a1a17",
+   "#ac9151",
+   "#713a0a"
+  ],
+  "theme_color": null,
+  "doporucene": [
+   "#070059",
+   "#9a1a17",
+   "#d9b50f",
+   "#070058"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.png",
+   "url": "https://elektrodemar.sk/storage/banner/banner005.png",
+   "sirka": 1920,
+   "vyska": 525,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-02.png",
+   "url": "https://elektrodemar.sk/storage/banner/banner006.png",
+   "sirka": 1920,
+   "vyska": 525,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-03.png",
+   "url": "https://elektrodemar.sk/storage/banner/banner007.png",
+   "sirka": 1920,
+   "vyska": 525,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-04.png",
+   "url": "https://elektrodemar.sk/storage/banner/banner001.png",
+   "sirka": 1920,
+   "vyska": 525,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-05.png",
+   "url": "https://elektrodemar.sk/storage/banner/banner022.png",
+   "sirka": 1920,
+   "vyska": 525,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-06.jpg",
+   "url": "https://elektrodemar.sk/storage/farby-laky/2.jpg",
+   "sirka": 960,
+   "vyska": 720,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-07.jpg",
+   "url": "https://elektrodemar.sk/storage/farby-laky/1.jpg",
+   "sirka": 720,
+   "vyska": 960,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-08.jpg",
+   "url": "https://elektrodemar.sk/storage/farby-laky/6.jpg",
+   "sirka": 1049,
+   "vyska": 1400,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-09.jpg",
+   "url": "https://elektrodemar.sk/storage/farby-laky/4.jpg",
+   "sirka": 960,
+   "vyska": 720,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-10.png",
+   "url": "https://elektrodemar.sk/storage/nasesluzby/projekt.png",
+   "sirka": 450,
+   "vyska": 250,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-11.png",
+   "url": "https://elektrodemar.sk/storage/nasesluzby/cena.png",
+   "sirka": 450,
+   "vyska": 250,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-12.png",
+   "url": "https://elektrodemar.sk/storage/nasesluzby/realizacia.png",
+   "sirka": 450,
+   "vyska": 250,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-13.png",
+   "url": "https://elektrodemar.sk/storage/nasesluzby/odborne.png",
+   "sirka": 450,
+   "vyska": 250,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h2",
+   "text": "Váš partner pre komplexné dodávky a služby elektroinštalácii",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Ďalšie naše služby: PREDAJŇA FARIEB - DEMAR SHOP",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Produkty známej profesionálnej značky Würth",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Zmiešanie farieb značky Poli-Farbe",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Kompletný sortiment nielen pre profesionálov",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "NAŠE SLUŽBY",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Vypracovanie projektovej dokumentácie",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Predbežné spracovanie cenových ponúk",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Realizácia elektroinštalačných prác",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Odborné prehliadky a odborné skúšky",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "HLAVNÍ PARTNERI",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Tel : +421 918 873 429 I Mail : info@elektrodemar.sk I Web : www.elektrodemar.sk I Adresa : Továrenská 3, 943 03 Štúrovo, Slovenská republika",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "...36 rokov sme stabilným partnerom v oblasti komplexných dodávok a služieb elektroinštalácii pre zvyšovanie bezpečnosti, kvality a úspor priemyselných, administratívnych a občianskych objektov...",
+   "zdroj": "https://elektrodemar.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Elektro Demar Plus s.r.o. Továrenská 3, 943 03 Štúrovo, Slovenská republika tel : +421 918 873 429 |  mail : info@elektrodemar.sk",
+   "zdroj": "https://elektrodemar.sk/"
+  }
+ ],
+ "chybi": [
+  "IČO",
+  "adresa / provozovna",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": "Oficiálna webová stránka firmy Elektro Demar Plus s.r.o., Továrenská 3, 943 03 Štúrovo. Spoločnosť ponúka širokú škálu elektroinštalačných služieb. Medzi naše komplexné služby patria okrem iného aj vybudovanie slaboprúdových, silnoprúdových rozvodov, elektrické NN a VN prípojky, dodávka a montáž trafostaníc, uzemnenia a bleskozvodov."
+}

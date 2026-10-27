@@ -1,0 +1,31 @@
+{
+  "slug": "sk-elektrodemar",
+  "nazev": "Elektro Demar Plus s.r.o.",
+  "url": "https://webhunter-navrhy.github.io/sk-elektrodemar/",
+  "base": "/sk-elektrodemar/",
+  "lang": "sk",
+  "popis": "Elektroinštalácie, trafostanice, NN a VN prípojky, odborné prehliadky a predajňa farieb DEMAR SHOP v Štúrove. Projekt, realizácia aj revízia od jedného dodávateľa.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "foto-04.png",
+  "logo": "logo.png",
+  "theme_color": "#f5f3ec",
+  "typ": "Electrician",
+  "ico": "44602570",
+  "kontakt": {
+    "email": "info@elektrodemar.sk",
+    "telefon": "+421 918 873 429",
+    "adresa": {"ulice": "Továrenská 3", "psc": "943 03", "mesto": "Štúrovo", "zeme": "SK"}
+  },
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {"endpoint": "", "demo": true, "predmet": "Dopyt z webu"},
+  "nav": [
+    {"text": "Postup prác", "href": "#postup"},
+    {"text": "Čo zapájame", "href": "#rozsah"},
+    {"text": "DEMAR SHOP", "href": "#shop"},
+    {"text": "O firme", "href": "#firma"},
+    {"text": "Kontakt", "href": "#kontakt"}
+  ]
+}
